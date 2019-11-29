@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="enter_email">enter email</string>
+    <string name="password">password</string>
+</resources>
